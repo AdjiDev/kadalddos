@@ -1,2 +1,2 @@
 # kadalddos
-simple stresser written in python only for educational purposes
+> Just use it if you know😚😚
